@@ -1,0 +1,12 @@
+{
+	"name": "LS_Databricks",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricksDeltaLake",
+		"typeProperties": {
+			"domain": "https://adb-3334133470998523.3.azuredatabricks.net",
+			"clusterId": "dapia29ed20b78b6e4502db1aa534422b5b8",
+			"workspaceResourceId": "/subscriptions/d85fa926-fe94-4500-a77c-f8effe06ff3e/resourceGroups/rsrgrp/providers/Microsoft.Databricks/workspaces/demoadb"
+		}
+	}
+}
